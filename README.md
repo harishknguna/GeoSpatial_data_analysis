@@ -1,4 +1,4 @@
-# data-scientist-technical-test
+# GeoSpatial Data Analysis for Weather Prediction
 
 ## Context
 
@@ -17,9 +17,7 @@ There a 3 jupyter notebooks in this repo. The 1st and 3rd notebooks are centered
 
 ### Description of the notebooks
 
-You must complete them in the order they are given. Only cells with the comment `# NOTE: Fill me!` should be filled.
-
-- The first notebook is a tutorial on the package `xarray` that we extensively use at Descartes for manipulating geospatial data. In the end of the notebook, you will be asked to find information about historical ignition points.
+- The first notebook is a tutorial on the package `xarray` used for manipulating geospatial data. In the end of the notebook, you will be asked to find information about historical ignition points.
 
 - In the 2nd notebook, you will be asked to manipulate `xarrays`, understand the notion of resolution, manipulate timeseries and compute historical payouts for an excess of rain cover.
 
@@ -27,12 +25,6 @@ You must complete them in the order they are given. Only cells with the comment 
 
 These 3 notebooks are an illustration of part of the content of the job at Descartes Underwriting as an Underwriter or R&D Data Scientist that consists mostly of a mix between Physics, Data Manipulation, Statistics and Machine Learning.
 
-## Scale
-
-The scale of the test is:
-- 1st notebook: 5%
-- 2nd notebook: 40%
-- 3rd notebook: 55%
 
 ## Data
 
@@ -43,46 +35,3 @@ The code should be able to make a prediction on the dataset of ignition/non-igni
 The data can be found in this repository
 
 The target for this project is `ignition`
-
-## Submission
-
-If something is not clear, you can ask questions to the recruiter.
-
-When submitting your project, your version should **not be draft** but complete and following best practices.
-
-The solution should be saved on a **private** `descartes-data-sci` repository on your github account.
-
-The solution should include:
-- notebooks **with outputs**
-
-When the final version is ready:
-
-1. Send an email to the recruiter indicating that you finished the project and sharing the url of the project
-2. Grant access to:
-
-- <https://github.com/SanaNABLI>
-- <https://github.com/ClotildeLange>
-
-## Duration
-
-Preparing the test should take around 4 hours.
-
-We will discuss about the project during the technical interview.
-
-## Reviewer-recommendation
-
-The code in the 3rd notebook should explicitly:
-
-- perform data analysis and preprocessing of the dataset
-- return the performance of the algorithms tested using the appropriate metric
-- explain with markdown comments important preprocessing and important modelling decisions including metric selection
-
-Performance is **not** the main goal.
-
-The first objective of the project is to write the main steps of a data-science project with a **proper style** and **well written comments**.
-
-The algorithms used do not have to be hyper-optimized on all parameters. However, the project should test different algorithms adapted to the type of problem.
-
-## FAQ
-
-We can answer specific questions on the variables but we won't provide a dictionary of variables.
