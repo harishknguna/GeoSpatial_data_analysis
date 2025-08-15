@@ -2,7 +2,7 @@
 
 ## Context
 
-A client in Australia owning forestry plantations is looking to be covered against wildfires and excess of rain. Both perils can damage forests. The test is centered on these 2 perils which are ones of the perils we are specialized at Descartes Underwriting. Wildfires are characterized by two phases: the ignition and the propagation. Here, we will mainly focus on the ignition part. The ignition point is where the wildfire starts and can be caused by natural (lightning for example) or human factors (cigarette, campfire, powerlines,...).
+A client in Australia owning forestry plantations is looking to be covered against wildfires and excess of rain. Both perils can damage forests. The test is centered on these 2 perils which are ones of the perils we are specialized. Wildfires are characterized by two phases: the ignition and the propagation. Here, we will mainly focus on the ignition part. The ignition point is where the wildfire starts and can be caused by natural (lightning for example) or human factors (cigarette, campfire, powerlines,...).
 
 Historical ignition points provide us with knowledge on what influences ignition and can help us for better simulating widlfires.
 
